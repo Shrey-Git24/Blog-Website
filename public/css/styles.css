@@ -55,10 +55,11 @@
 }
 .footer-padding {
 	padding-bottom: 20px;
-	position:absolute;
+	
 }
 
 .footer {
+	position:absolute;
 	text-align: center;
 	bottom: 0;
 	width: 100%;
