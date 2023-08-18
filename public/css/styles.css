@@ -53,7 +53,9 @@
     height: 200px;
     align-items: center;
 }
-
+.footer-padding{
+	padding-bottom:20px;
+}
 
 .footer {
 	position:fixed;
